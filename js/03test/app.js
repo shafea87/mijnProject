@@ -5,9 +5,9 @@
 // }else{
 //   console.log('not number ');
 // }
-const name = 'Ahmad';
-const age = 16;
-const job = 'stade';
+// const name = 'Ahmad';
+// const age = 16;
+// const job = 'stade';
 
 
 // if(age>0 && age<6){
@@ -76,5 +76,17 @@ const job = 'stade';
 //   console.log('saterday');
 //   break;
 // }
+
+
+// document.getElementById("test").innerHTML = "hoi";
+
+const cars = ['volvo','pego','foerd'];
+//  cars[1]= 'marcedis';
+
+ let trs=cars.length-1;
+
+document.getElementById('test').innerHTML =cars [1];
+
+console.log(trs);
 
 
