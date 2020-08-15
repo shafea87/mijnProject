@@ -1,0 +1,21 @@
+/* Color Theme Swatches in Hex
+.Composition-with-vintage-old-hardback-books,-diary,-fanned-pages-on-wooden-deck-table-and-abstract-background.-Books-stacking.-Back-to-school.-Copy-Space.-Education-background.-1-hex { color: #026873; }
+.Composition-with-vintage-old-hardback-books,-diary,-fanned-pages-on-wooden-deck-table-and-abstract-background.-Books-stacking.-Back-to-school.-Copy-Space.-Education-background.-2-hex { color: #04D9D9; }
+.Composition-with-vintage-old-hardback-books,-diary,-fanned-pages-on-wooden-deck-table-and-abstract-background.-Books-stacking.-Back-to-school.-Copy-Space.-Education-background.-3-hex { color: #03A6A6; }
+.Composition-with-vintage-old-hardback-books,-diary,-fanned-pages-on-wooden-deck-table-and-abstract-background.-Books-stacking.-Back-to-school.-Copy-Space.-Education-background.-4-hex { color: #BF8B2A; }
+.Composition-with-vintage-old-hardback-books,-diary,-fanned-pages-on-wooden-deck-table-and-abstract-background.-Books-stacking.-Back-to-school.-Copy-Space.-Education-background.-5-hex { color: #BF3415; } */
+
+.navbar{
+  background-color: #03A6A6 !important  ;
+}
+.navbar a{
+  color:white;
+}
+.navbar a:hover{
+  color: black !important;
+ 
+}
+.csc{
+  background-color: #03A6A6 !important;
+ 
+}
