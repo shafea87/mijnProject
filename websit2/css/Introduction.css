@@ -1,0 +1,18 @@
+*{
+  font-family: 'Courgette', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+h1{
+  color: #BF3415;
+
+}
+.container{
+  margin-top: 100px;
+}
+.h1-1{
+  padding-bottom: 30px;
+}
+.btn-1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

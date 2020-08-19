@@ -1,0 +1,16 @@
+*{
+  font-family: 'Courgette', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+h1{
+  color: #BF3415;
+}
+.container{
+  margin-top: 100px;
+}
+.h1-home{
+  padding-bottom: 30px ;
+}
+.lead{
+  padding-bottom: 20px ;
+}
