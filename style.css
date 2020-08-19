@@ -1,0 +1,15 @@
+body{
+  background-image: url('../mijnProject/websit2/img/34.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.container{
+  margin-top: 200px;
+}
+.csc{
+  margin-top: 20px;
+  font-size: xx-large;
+}
