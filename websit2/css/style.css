@@ -5,7 +5,7 @@
 }
 /* bg */
 body{
-  background-color: #D9D4CC !important;
+  background-color: #ffffff !important;
 }
 
 
@@ -36,6 +36,7 @@ nav div ul li a:hover{
 .active{
   color: #1BAFBF!important;
 }
+/* section1 */
 
 /* footer */
 footer{
@@ -68,3 +69,7 @@ text-decoration: none;
   height: 50px;
   width: 50px
 }
+.nmn{
+  box-shadow: 5px 5px 5px 0px  rgb(177, 177, 177);
+
+ }
