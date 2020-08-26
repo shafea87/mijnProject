@@ -5,6 +5,9 @@
 h1{
   color: #BF3415;
 }
+h3{
+  color: darkcyan;
+}
 .container{
   margin-top: 100px;
 }

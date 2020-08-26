@@ -19,7 +19,7 @@ body{
 .navbar{
   font-family: 'Lora', serif;
   width: 95vw;
-  margin-left: 40px;
+  /* margin-left: 40px; */
   margin-right: 40px;
   margin-top: 10px;
   border-radius: 40px;
