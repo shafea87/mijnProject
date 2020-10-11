@@ -1,0 +1,24 @@
+#customize-controls .control-section-boost-biz .accordion-section-title:hover,
+#customize-controls .control-section-boost-biz .accordion-section-title:focus {
+	background-color: #5031a9;
+	color: #fff;
+}
+
+.control-section-boost-biz .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #F24C5A;
+	border-color: #F24C5A;
+	color: #fff;
+}
+
+.rtl .control-section-boost-biz .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-boost-biz h3.accordion-section-title {
+    background-color: #5031a9;
+    color: #fff;
+}
