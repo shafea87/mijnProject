@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T10:17:29.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="pmD3n3EVdYUcJpfb2-re" version="15.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-02T19:14:46.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Gm5j3uW-TfsA_aAxx-VD" version="15.4.0" type="github" pages="5">
   <diagram id="yf2nCXdOZgsfuE43VRPK" name="registreren">
     <mxGraphModel dx="1009" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="200" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="7KY76TpivMg1tHrAV7CA-1" parent="7KY76TpivMg1tHrAV7CA-0" />
         <mxCell id="rmOdgR5SzK75k0D113VH-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De doel title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;De doel omschrijving:&lt;/b&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
           <mxGeometry width="260" height="370" relative="1" as="geometry">
-            <mxPoint x="100" y="60" as="offset" />
+            <mxPoint x="80" y="190" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-1" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="rmOdgR5SzK75k0D113VH-0">
@@ -70,8 +70,8 @@
         <mxCell id="rmOdgR5SzK75k0D113VH-17" value="Meer informatie" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="rmOdgR5SzK75k0D113VH-0">
           <mxGeometry x="20" y="318" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rmOdgR5SzK75k0D113VH-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De doel title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;De doel omschrijving:&lt;/b&gt;&lt;br&gt;&lt;span&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
-          <mxGeometry x="380" y="60" width="260" height="370" as="geometry" />
+        <mxCell id="rmOdgR5SzK75k0D113VH-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De tweede doel title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;De doel omschrijving:&lt;/b&gt;&lt;br&gt;&lt;span&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
+          <mxGeometry x="360" y="190" width="260" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-4" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="rmOdgR5SzK75k0D113VH-3">
           <mxGeometry width="260" height="160" relative="1" as="geometry" />
@@ -79,8 +79,8 @@
         <mxCell id="rmOdgR5SzK75k0D113VH-19" value="Meer informatie" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="rmOdgR5SzK75k0D113VH-3">
           <mxGeometry x="20" y="318" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rmOdgR5SzK75k0D113VH-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De doel title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;De doel omschrijving:&lt;/b&gt;&lt;br&gt;&lt;span&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
-          <mxGeometry x="660" y="60" width="260" height="370" as="geometry" />
+        <mxCell id="rmOdgR5SzK75k0D113VH-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De diede doel title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;De doel omschrijving:&lt;/b&gt;&lt;br&gt;&lt;span&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
+          <mxGeometry x="640" y="190" width="260" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-7" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="rmOdgR5SzK75k0D113VH-6">
           <mxGeometry width="260" height="160" relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="20" y="318" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-12" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;De doel title&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.&lt;span&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;spacingLeft=170;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
-          <mxGeometry x="100" y="490" width="820" height="240" as="geometry" />
+          <mxGeometry x="80" y="620" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-13" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="rmOdgR5SzK75k0D113VH-12">
           <mxGeometry width="260" height="240" relative="1" as="geometry" />
@@ -98,7 +98,10 @@
           <mxGeometry x="310" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rmOdgR5SzK75k0D113VH-16" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#868E96;direction=west;strokeWidth=0;" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
-          <mxGeometry x="100" y="460" width="120" height="30" as="geometry" />
+          <mxGeometry x="80" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nf3RJQExo9BMXeQiLyOZ-0" value="De doelen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;fontStyle=1" vertex="1" parent="7KY76TpivMg1tHrAV7CA-1">
+          <mxGeometry x="290" y="80" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -109,19 +112,117 @@
         <mxCell id="SPWNS-7_nUfaJhEqZOsH-0" />
         <mxCell id="SPWNS-7_nUfaJhEqZOsH-1" parent="SPWNS-7_nUfaJhEqZOsH-0" />
         <mxCell id="g_YcIgxfXhsvRTzYAzAu-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
-          <mxGeometry x="130" y="260" width="860" height="860" as="geometry" />
+          <mxGeometry x="69" y="280" width="861" height="861" as="geometry" />
         </mxCell>
-        <mxCell id="NyiCyyQv2j1oU7FseQdg-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Mijn Doel&lt;/font&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
-          <mxGeometry x="130" y="260" width="860" height="70" as="geometry" />
+        <mxCell id="NyiCyyQv2j1oU7FseQdg-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Mijn Doel&lt;/font&gt;" style="text;html=1;strokeColor=#C7C7C7;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="70" y="280" width="860" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BtJyoalZZFBZ0AhLp1IV-14" value="Eenmalig" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=20;spacing=5;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
-          <mxGeometry x="210" y="480" width="230" height="50" as="geometry" />
+        <mxCell id="fWUvCjiDwDWlEO_WtKzM-0" value="Doel deze maand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#B3B3B3;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="200" y="675" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BtJyoalZZFBZ0AhLp1IV-15" value="Maandelijks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DFDFDF;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=20;spacing=5;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
-          <mxGeometry x="450" y="480" width="230" height="50" as="geometry" />
+        <mxCell id="u_agPC3L7lDDyvOewHii-0" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;google sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;€&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="500" y="675" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BtJyoalZZFBZ0AhLp1IV-16" value="jaarlijks" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=20;spacing=5;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
-          <mxGeometry x="690" y="480" width="230" height="50" as="geometry" />
+        <mxCell id="u_agPC3L7lDDyvOewHii-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Eerste doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="820" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-0" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;google sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;%&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="490" y="820" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Tweede doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="870" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Eerste doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="920" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-3" value="&lt;font color=&quot;#202124&quot; face=&quot;google sans, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px ; background-color: rgb(255 , 255 , 255)&quot;&gt;%&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="490" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-4" value="&lt;font color=&quot;#202124&quot; face=&quot;google sans, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px ; background-color: rgb(255 , 255 , 255)&quot;&gt;%&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="490" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-9" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscreteDots;barPos=0;bright=1;strokeColor=#0F9D58;opacity=100;strokeWidth=2;fillColor=#0F9D58;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="465" y="740" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-10" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscrete;barPos=40.17;strokeColor=#BEBEBE;opacity=100;strokeWidth=2;fillColor=#BEBEBE;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="465" y="740" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-11" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscrete;barPos=59.72;strokeColor=#BEBEBE;opacity=100;strokeWidth=2;fillColor=#BEBEBE;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="465" y="740" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-40" value="Hier kunt u uw abonnement kiezen en uw bedrag toevoegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="200" y="410" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-34" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#676767;fillColor=#676767;strokeWidth=2;aspect=fixed;sketch=0;fontSize=24;fontColor=#000000;html=0;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="507" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-35" value="&lt;span style=&quot;font-size: 20px ; font-weight: 700&quot;&gt;Maandelijks&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="270" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-36" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;fontSize=24;fontColor=#000000;html=0;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="467" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-37" value="&lt;span style=&quot;font-size: 20px ; font-weight: 700&quot;&gt;Eenmalig&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="260" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-38" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#666666;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;fontSize=24;fontColor=#000000;html=0;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="210" y="547" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-39" value="&lt;span style=&quot;font-size: 20px ; font-weight: 700&quot;&gt;jaarlijks&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="250" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-41" value="Uw doner" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="212.5" y="590" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pyUGnsuvzqSy_cvo60S-43" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;google sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;€&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="SPWNS-7_nUfaJhEqZOsH-1">
+          <mxGeometry x="500" y="590" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Deze maand Doel" id="8EOUFy8RrsQdZ3YL44MI">
+    <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-0" />
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-1" parent="Uq3wledTf6qzuS-BR3Yf-0" />
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="69" y="550" width="861" height="861" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Deze maand Doel&lt;/font&gt;" style="text;html=1;strokeColor=#C7C7C7;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="69" y="550" width="860" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-4" value="Doel deze maand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#B3B3B3;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="200" y="675" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-5" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;google sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;€&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="500" y="675" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-6" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Eerste doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="210" y="820" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-7" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;google sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;%&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="490" y="820" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-8" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Tweede doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="210" y="870" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-9" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Eerste doel procentage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="210" y="920" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-10" value="&lt;font color=&quot;#202124&quot; face=&quot;google sans, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px ; background-color: rgb(255 , 255 , 255)&quot;&gt;%&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="490" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-11" value="&lt;font color=&quot;#202124&quot; face=&quot;google sans, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px ; background-color: rgb(255 , 255 , 255)&quot;&gt;%&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=#C7C7C7;strokeWidth=1;fillColor=#FAFAFA;align=center;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="490" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-12" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscreteDots;barPos=0;bright=1;strokeColor=#0F9D58;opacity=100;strokeWidth=2;fillColor=#0F9D58;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="465" y="740" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-13" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscrete;barPos=40.17;strokeColor=#BEBEBE;opacity=100;strokeWidth=2;fillColor=#BEBEBE;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="465" y="740" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3wledTf6qzuS-BR3Yf-14" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.sliderDiscrete;barPos=59.72;strokeColor=#BEBEBE;opacity=100;strokeWidth=2;fillColor=#BEBEBE;handleSize=10;shadow=0;fontSize=12;fontColor=#ffffff;" vertex="1" parent="Uq3wledTf6qzuS-BR3Yf-1">
+          <mxGeometry x="470" y="740" width="195" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
