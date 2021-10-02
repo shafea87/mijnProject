@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T09:34:59.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="QDIcQC9PDAgIKKNpCl3E" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-02T09:35:21.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="fD_GGxoHsKEa9L_D134k" version="15.4.0" type="github" pages="3">
   <diagram id="yf2nCXdOZgsfuE43VRPK" name="registreren">
     <mxGraphModel dx="1009" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="200" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry x="85" y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7eYXOLGoDQVvA2weS9_D-0" value="Sign Up" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="6iT8Z1Q4oTUnFoP1gFad-70">
-          <mxGeometry x="25" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="25" y="400" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
